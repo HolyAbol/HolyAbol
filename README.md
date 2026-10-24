@@ -5,6 +5,8 @@
 - 🌱 Currently learning NestJS and exploring backend architecture.
 - ⚡️ Interested in building scalable and maintainable backend systems.
 
+<img src="https://media1.tenor.com/m/9J_qgNMLgEMAAAAC/purple-guy-dance-william-afton-dance.gif" alt="Purple Guy dancing" width="250" />
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whosqasemi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abolfazl5461385@gmail.com)
